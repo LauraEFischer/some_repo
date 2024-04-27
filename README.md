@@ -1,2 +1,2 @@
 # some_repo
-This is some test repo
+This is an awsome repo
